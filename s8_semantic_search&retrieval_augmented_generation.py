@@ -21,7 +21,7 @@ pip install llama-cpp-python==0.2.78
 import cohere
 
 # Paste your API key here. Remember to not share publicly
-api_key = '5awdo0slX4WdDm53ZMFBdMFbl1XzQU7T60SQYj0t'
+api_key = 'enter the key'
 
 # Create and retrieve a Cohere API key from os.cohere.ai
 co = cohere.Client(api_key)
