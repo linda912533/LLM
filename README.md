@@ -10,3 +10,4 @@ Each item contains one colab notebook and its python file
 5. Text Clustering and Topic Modeling (BERTopic with OpenAI GPT3.5)
 6. Prompt engineering (chain-prompting and chain-of-thought)
 7. Some text generation techniques (quantized model with LangChain, multiple chains, remembering conversations and agent for creating a system of LLMs)
+8. Semantic search (dense retrieval and reranking) and retrieval-augmented generation (RAG) with an LLM API
