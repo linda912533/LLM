@@ -11,4 +11,4 @@ Each item contains one colab notebook and its python file
 6. Prompt engineering (chain-prompting and chain-of-thought)
 7. Some text generation techniques (quantized model with LangChain, multiple chains, remembering conversations and agent for creating a system of LLMs)
 8. Semantic search (dense retrieval and reranking) and retrieval-augmented generation (RAG) with an LLM API
-9. Multimodals LLMs (SBERT, BLIP-2 for image captioning and visual answer questioning) and text event widget
+9. Multimodals LLMs (SBERT, BLIP-2 for image captioning and visual question answering) and text event widget
