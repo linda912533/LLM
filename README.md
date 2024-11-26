@@ -12,3 +12,4 @@ Each item contains one colab notebook and its python file
 7. Some text generation techniques (quantized model with LangChain, multiple chains, remembering conversations and agent for creating a system of LLMs)
 8. Semantic search (dense retrieval and reranking) and retrieval-augmented generation (RAG) with an LLM API
 9. Multimodals LLMs (SBERT, BLIP-2 for image captioning and visual question answering) and text event widget
+10. Train and fine-tuning an embedding model (Supervised/Augmented SBERT/Unsupervised Learning)
