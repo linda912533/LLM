@@ -223,7 +223,7 @@ y = [
 
 # Stylize Figure
 plt.grid(color='#ECEFF1')
-plt.axvline(x=4, color="#EC407A", linestyle="--")
+plt.axvline(x=5, color="#EC407A", linestyle="--")
 plt.title("Effect of Frozen Encoder Blocks on Training Performance")
 plt.ylabel("F1-score")
 plt.xlabel("Trainable encoder blocks")
@@ -234,8 +234,8 @@ plt.plot(x, y, color="black")
 # Additional Annotation
 plt.annotate(
     'Performance stabilizing',
-    xy=(4, y[4]),
-    xytext=(4.5, y[4]-.05),
+    xy=(5, y[5]),
+    xytext=(5.5, y[5]-.05),
     arrowprops=dict(
         arrowstyle="-|>",
         connectionstyle="arc3",
